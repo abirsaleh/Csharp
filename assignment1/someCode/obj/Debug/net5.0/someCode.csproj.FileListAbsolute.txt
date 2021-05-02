@@ -1,0 +1,16 @@
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\someCode.exe
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\someCode.deps.json
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\someCode.runtimeconfig.json
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\someCode.runtimeconfig.dev.json
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\someCode.dll
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\ref\someCode.dll
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\bin\Debug\net5.0\someCode.pdb
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.csprojAssemblyReference.cache
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.AssemblyInfoInputs.cache
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.AssemblyInfo.cs
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.csproj.CoreCompileInputs.cache
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.dll
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\ref\someCode.dll
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.pdb
+C:\Users\abir\Desktop\Assignment1\Assignment1\someCode\obj\Debug\net5.0\someCode.genruntimeconfig.cache
