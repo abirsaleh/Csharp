@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\print_Sum\\print_Sum.csproj": {}
+    "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\print_Sum\\print_Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\print_Sum\\print_Sum.csproj": {
+    "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\print_Sum\\print_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\print_Sum\\print_Sum.csproj",
+        "projectUniqueName": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\print_Sum\\print_Sum.csproj",
         "projectName": "print_Sum",
-        "projectPath": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\print_Sum\\print_Sum.csproj",
+        "projectPath": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\print_Sum\\print_Sum.csproj",
         "packagesPath": "C:\\Users\\abir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\print_Sum\\obj\\",
+        "outputPath": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\print_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abir\\AppData\\Roaming\\NuGet\\NuGet.Config",

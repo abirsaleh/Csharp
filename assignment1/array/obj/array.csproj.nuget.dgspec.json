@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\array\\array.csproj": {}
+    "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\array\\array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\array\\array.csproj": {
+    "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\array\\array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\array\\array.csproj",
+        "projectUniqueName": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\array\\array.csproj",
         "projectName": "array",
-        "projectPath": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\array\\array.csproj",
+        "projectPath": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\array\\array.csproj",
         "packagesPath": "C:\\Users\\abir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\array\\obj\\",
+        "outputPath": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abir\\AppData\\Roaming\\NuGet\\NuGet.Config",

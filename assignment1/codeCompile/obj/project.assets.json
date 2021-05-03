@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\codeCompile\\codeCompile.csproj",
+      "projectUniqueName": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\codeCompile\\codeCompile.csproj",
       "projectName": "codeCompile",
-      "projectPath": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\codeCompile\\codeCompile.csproj",
+      "projectPath": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\codeCompile\\codeCompile.csproj",
       "packagesPath": "C:\\Users\\abir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abir\\Desktop\\Assignment1\\Assignment1\\codeCompile\\obj\\",
+      "outputPath": "C:\\Users\\abir\\Desktop\\Devskill\\Csharp\\assignment1\\codeCompile\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abir\\AppData\\Roaming\\NuGet\\NuGet.Config",
