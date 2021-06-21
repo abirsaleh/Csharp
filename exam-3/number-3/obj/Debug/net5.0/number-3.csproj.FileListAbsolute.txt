@@ -1,0 +1,16 @@
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\number-3.exe
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\number-3.deps.json
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\number-3.runtimeconfig.json
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\number-3.runtimeconfig.dev.json
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\number-3.dll
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\ref\number-3.dll
+C:\Users\abir\Desktop\New folder\exam-3\number-3\bin\Debug\net5.0\number-3.pdb
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.csprojAssemblyReference.cache
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.AssemblyInfoInputs.cache
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.AssemblyInfo.cs
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.csproj.CoreCompileInputs.cache
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.dll
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\ref\number-3.dll
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.pdb
+C:\Users\abir\Desktop\New folder\exam-3\number-3\obj\Debug\net5.0\number-3.genruntimeconfig.cache
